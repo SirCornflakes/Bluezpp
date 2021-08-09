@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Repository
+build
+test/build
